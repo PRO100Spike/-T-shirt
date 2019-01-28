@@ -1,0 +1,5 @@
+.idea/
+.vagrant/
+Vagrantfile
+node_modules/
+vendor/

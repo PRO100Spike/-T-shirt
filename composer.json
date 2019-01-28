@@ -1,0 +1,12 @@
+{
+    "name": "vagrant/vagrant",
+    "authors": [
+        {
+            "name": "Yakushew Anton",
+            "email": "13spike@mail.ru"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.5"
+    }
+}
